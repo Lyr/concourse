@@ -2,7 +2,7 @@
 > To help us review your PR, please fill in the following information.
 > Before submitting, please remove all the lines starting with '>'.
 
-# What does this PR accomplish?
+## What does this PR accomplish?
 > Choose all that apply.
 > Also, mention the linked issue here.
 > This will magically close the issue once the PR is merged.
@@ -11,16 +11,16 @@ Bug Fix | Feature | Documentation
 
 closes # .
 
-# Changes proposed by this PR:
+## Changes proposed by this PR:
 > Tell the reviewer What changed, Why, and How were you able to accomplish that?
 - ...
 
-# Notes to reviewer:
+## Notes to reviewer:
 > Leave a message to whoever is going to review this PR.
 > Mainly, pointers to review the PR, and how they can test it.
 - ...
 
-# Contributor Checklist
+## Contributor Checklist
 > Most of the PRs should have the following added to them,
 > this doesn't apply to all PRs, so it is helpful to tell us what you did.
 
@@ -37,7 +37,7 @@ closes # .
 [Documentation]: https://github.com/concourse/docs
 [Release notes]: https://github.com/concourse/concourse/tree/master/release-notes
 
-# Reviewer Checklist
+## Reviewer Checklist
 > This section is intended for the reviewers only, to track review
 > progress.
 

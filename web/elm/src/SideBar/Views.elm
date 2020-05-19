@@ -84,5 +84,9 @@ viewPipeline p =
                    ]
             )
             [ Html.text p.link.text ]
-        , Html.div (Styles.pipelineFavourite p.favIcon) []
+        , Html.div
+            (Styles.pipelineFavourite p.favIcon
+                ++ [ onClick <| Click <| SideBarStarIcon { p.name, p.teamName } ]
+            ) -- TODO BY zoe: here we need a concourse pipeline
+            []
         ]

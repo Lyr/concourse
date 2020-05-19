@@ -11,6 +11,7 @@ Also, mention the linked issue here.
 This will magically close the issue once the PR is merged.
 -->
 Bug Fix | Feature | Documentation
+
 closes # .
 
 ## Changes proposed by this PR:

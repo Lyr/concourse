@@ -1,7 +1,7 @@
 <!---
 Hi there! Thanks for submitting a pull request to Concourse!
 To help us review your PR, please fill in the following information.
-Before submitting, please remove all the lines starting with '>'.
+all lines between `<!-- -->` are going to be autmatically removed.
 -->
 
 ## What does this PR accomplish?
